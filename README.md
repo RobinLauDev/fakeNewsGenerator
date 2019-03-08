@@ -11,17 +11,17 @@ Adding sentence formats
 
 formHandle.php contains the arrays in which content can be added, just make sure you also include a fitting image in the if else statements below:
 
-if($random == 0){
-    $personLink = 'person/cortez.png';
-    $imageText = "AOC MISINFORMED ABOUT " . $inputCap;
-}
-if($random == 1){
-    $personLink = 'person/trump.png';
-    $imageText = "DEFENDING " . $inputCap;
-}
-if($random == 2){
-    $personLink = 'person/bernie.png';
-    $imageText = "CRAZY BERNIE ON " . $inputCap;
-}
+        if($random == 0){
+            $personLink = 'person/cortez.png';
+            $imageText = "AOC MISINFORMED ABOUT " . $inputCap;
+        }
+        if($random == 1){
+            $personLink = 'person/trump.png';
+            $imageText = "DEFENDING " . $inputCap;
+        }
+        if($random == 2){
+            $personLink = 'person/bernie.png';
+            $imageText = "CRAZY BERNIE ON " . $inputCap;
+        }
 
 
