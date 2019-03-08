@@ -4,7 +4,8 @@ This tool makes use of the bing API which requires a licensing key.
 
 *whispers* but free keys or usable for 7 days which after you can just use a different email adres to get another free key for 7 days *wispers*
 
-These license keys are stored in the bingApi.php file
+These license keys are stored in the bingApi.php file:
+        $accessKey = '05076bfe43fd48a1a24582fb7bad67c2';
 
 --------------------------------
 Adding sentence formats
