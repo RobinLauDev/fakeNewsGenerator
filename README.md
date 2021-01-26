@@ -4,6 +4,8 @@ live version:
 http://robinbz216.216.axc.nl/
 
 --------------------------------
+This is a school project
+--------------------------------
 This tool makes use of the bing API which requires a licensing key. 
 
 *whispers* but free keys or usable for 7 days which after you can just use a different email adres to get another free key for 7 days *wispers*
